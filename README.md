@@ -1,6 +1,5 @@
 # Tools by BAZTechKnow
 
-Here is LinkedIn Formater
-https://github.com/baztechknow/tools/blob/f3d75d3011428e983e33feaab0bae5cf95d6311f/linkedin-text-formatter_1.html
+Here is LinkedIn Formater (https://github.com/baztechknow/tools/blob/f3d75d3011428e983e33feaab0bae5cf95d6311f/linkedin-text-formatter_1.html)
 
-https://github.com/baztechknow/tools/blob/main/linkedin-text-formatter_1.html 
+
